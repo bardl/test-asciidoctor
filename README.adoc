@@ -1,4 +1,19 @@
+= Document Title
+
 This journey begins one late Monday afternoon in Antwerp.
 Our team desperately needs coffee, but none of us dare open the office door.
 
 To leave means code dismemberment and certain death.
+
+WARNING: Wolpertingers are known to nest in server racks.
+Enter at your own risk.
+
+* The header in AsciiDoc is optional, but if
+it is used it must start with a document title.
+
+* Optional Author and Revision information
+immediately follows the header title.
+
+* The document header must be separated from
+  the remainder of the document by one or more
+  blank lines and cannot contain blank lines.
