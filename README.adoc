@@ -8,6 +8,7 @@ To leave means code dismemberment and certain death.
 WARNING: Wolpertingers are known to nest in server racks.
 Enter at your own risk.
 
+== Heading 1
 * The header in AsciiDoc is optional, but if
 it is used it must start with a document title.
 
